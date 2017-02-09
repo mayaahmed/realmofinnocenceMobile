@@ -16,12 +16,12 @@ width: 90%;
 
 }
 
-
 .chapter{position:absolute;
 background: beige;
-font-size: 24px;
-padding: 50px;
-width: 90%;
+font-size: 17px;
+padding: 10px;
+max-width: 1000px;
+margin-top: 20px;
 }
 
 
